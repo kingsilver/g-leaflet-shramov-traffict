@@ -1,0 +1,8 @@
+org/peimari/gleaflet/client/shramov/GoogleLayerOptions.class
+org/peimari/gleaflet/client/shramov/GoogleLayer.class
+org/peimari/gleaflet/client/resources/LeafletShramovResourceInjector.class
+org/peimari/gleaflet/client/shramov/BingLayer$Type.class
+org/peimari/gleaflet/client/shramov/GoogleLayer$Type.class
+org/peimari/gleaflet/client/shramov/BingLayerOptions.class
+org/peimari/gleaflet/client/shramov/BingLayer.class
+org/peimari/gleaflet/client/resources/LeafletShramovClientBundle.class

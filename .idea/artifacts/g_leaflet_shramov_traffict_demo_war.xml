@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="g-leaflet-shramov-traffict-demo:war">
+    <output-path>$PROJECT_DIR$/g-leaflet-shramov-traffict-demo/target</output-path>
+    <root id="archive" name="g-leaflet-shramov-traffict-demo-0.0.3.war">
+      <element id="artifact" artifact-name="g-leaflet-shramov-traffict-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
